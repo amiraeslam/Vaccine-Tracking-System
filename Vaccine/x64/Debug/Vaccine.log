@@ -1,0 +1,8 @@
+﻿  vaccine.cpp
+  vaccinemain.cpp
+C:\Users\Islam\source\repos\Vaccine\Vaccine\vaccinemain.cpp(111,33): warning C4305: 'initializing': truncation from 'int' to 'float'
+C:\Users\Islam\source\repos\Vaccine\Vaccine\vaccinemain.cpp(314,22): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Islam\source\repos\Vaccine\Vaccine\vaccinemain.cpp(318,18): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Islam\source\repos\Vaccine\Vaccine\vaccinemain.cpp(323,18): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  Vaccine.vcxproj -> C:\Users\Islam\source\repos\Vaccine\x64\Debug\Vaccine.exe
